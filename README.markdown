@@ -19,7 +19,7 @@ Although each programmer brings different goals and experiences to the table, mo
 * "How do I create a secure Keychain entry?"
 * "How do I search the Address Book?"
 * "How do I move between views?"
-* "How do I use Core Location, the gyro, and the magnetometer?"
+* "How do I use Core Location, the gyro, and the magnetometer?"t
 * "How do I draw text around shapes?"
 * "How do I use a Page View controller?"
 
@@ -29,7 +29,8 @@ And so on. If you've asked yourself these questions, then this book is for you. 
 For the sake of pedagogy, this book's sample code usually presents itself in a single main.m file. This is not how people normally develop iOS or Cocoa applications, or *should* be developing them, but it provides a great way of presenting a single big idea. 
 
 It's hard to tell a story when readers must look through 5 or 7 or 9 individual files at once. Offering a single file concentrates that story, allowing access to that idea in a single chunk.
-These samples are not intended as stand-alone applications. They are there to demonstrate a single recipe and a single idea. A main.m file with a central presentation reveals the implementation story in one place. 
+
+These samples are not intended as stand-alone applications. They are there to demonstrate a single recipe and a single idea. A main.m file with a central presentation reveals the implementation story in one place. 
 
 Readers can study these concentrated ideas and transfer them into normal application structures, using the standard file structure and layout. The presentation in this book does not produce code in a day-to-day best practices approach. Instead, it offers concise solutions that you can incorporate back into your work as needed.
 
